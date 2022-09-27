@@ -8,6 +8,5 @@ This sensor is compatible with 3.3v and 5v voltages.
 
 #  Repository Contents
 
--   **/Documents**  - Datasheets
--   **/Hardware**  - Sensor Pictures, Sensor 3D Model
-
+-   **/[Documents](https://github.com/JAPS01/GaZMOD44/tree/master/Documents "Documents")**  - Datasheets
+-   **/[Hardware](https://github.com/JAPS01/GaZMOD44/tree/master/Hardware "Hardware")**  - Sensor Pictures, Sensor 3D Model
